@@ -25,7 +25,7 @@ Donde ```cadena_a_codificar``` es el texto que deseas convertir a código Morse.
 Para decodificar un mensaje en código Morse, utiliza el argumento -d:
 ```python3 morse.py -d "cadena_a_decodificar"```
 
-##Ejemplos
+## Ejemplos
 
 Codificar:
 ```python3 morse.py "HELLO WORLD"```
